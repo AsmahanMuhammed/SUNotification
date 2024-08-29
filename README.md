@@ -1,1 +1,1 @@
-# SUNotification
+# SUNotification-wiki
